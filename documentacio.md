@@ -27,7 +27,16 @@ Configurem les interficies de xarxa
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/8cf8c55d-a1fd-4637-99cc-e4c5b53ed2f4)
 
 
+Configuracio final
 
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/befe6414-3bf8-4534-be94-b17dbb6fd3ac)
+
+
+Installem els packets
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/08e7b2ab-2f30-45c0-8f24-7b926961362c)
 
 
 
