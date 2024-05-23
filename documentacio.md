@@ -24,28 +24,7 @@ El descomprimim i el executem
 Configurem les interficies de xarxa 
 
 
-![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/3c9651ec-305a-4b59-8227-bac116e3dba3)
-
-
-Configuracio final
-
-
-![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/6cabd840-d633-4bb6-bc1d-9c54a033c321)
-
-
-
-
-Installem els paquets necessaris 
-
-
-
-![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/f4d53283-4e6b-4221-8516-54751593905e)
-
-
-I li donem a enter
-
-
-![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/9e869558-6bd2-423a-9f8a-0f6afe063e21)
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/8cf8c55d-a1fd-4637-99cc-e4c5b53ed2f4)
 
 
 
