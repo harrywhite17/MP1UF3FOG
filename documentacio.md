@@ -86,7 +86,7 @@ I ja estic dins de el fog
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/125240ea-1c78-45fb-bfda-2d7e56650786)
 
 
-Creem la image
+Creem la image de windows
 
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/5f9605b4-8b60-476a-b1c1-99b907ab06d4)
 
@@ -143,4 +143,25 @@ I all fog surt aixo a images
 
 
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/826d0148-38ce-4740-8cb3-300c5d5fd39f)
+
+
+Creem la image de ubuntu
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/33451bf6-ed2f-4337-9da6-422b27c9b1b6)
+
+
+Creo el host del ubuntu
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/d6982ac9-da60-43dd-a23a-2a6b6ac443ac)
+
+
+
+Faig el capture
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/fd1fd065-b1c9-4640-ac01-3f8965395925)
+
 
