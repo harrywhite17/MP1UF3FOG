@@ -125,8 +125,22 @@ Configurem el host
 
 
 
-Obrim el client windows10 i selecionem 12 i triem lan
+Obrim el client windows10 i selecionem 12 i triem lan (abans de aixo he tingut de ficar la ip correcta al client)
 
 
 
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/72448e07-de0f-4c66-a948-b8b6cd3e8e30)
+
+
+
+I es veu el seguent despres de cargarse
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/1c09b426-32a3-41ec-b454-7c002e7b398e)
+
+
+I all fog surt aixo a images
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/826d0148-38ce-4740-8cb3-300c5d5fd39f)
+
