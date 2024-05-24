@@ -103,10 +103,10 @@ I aqui es veu
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/295e53d1-7199-42ea-a524-e03a4cfe64ff)
 
 
-Creem un nou host
+Creem un nou host ficant la mac del client
 
 
-![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/bb508a0b-8c1b-471d-be4b-e0bdcf021d15)
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/a6d8610f-cfce-4d13-9ed9-15c51f0a09f1)
 
 
 
