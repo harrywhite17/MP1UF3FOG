@@ -110,7 +110,23 @@ Creem un nou host ficant la mac del client
 
 
 
+Cliquem aqui 
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/489fa2f6-3a0b-4be0-8921-cb6648c7c8c1)
 
 
 
+Configurem el host
 
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/471467a0-37be-45a6-a759-88e20931f8e1)
+
+
+
+Obrim el client windows10 i selecionem 12 i triem lan
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/72448e07-de0f-4c66-a948-b8b6cd3e8e30)
