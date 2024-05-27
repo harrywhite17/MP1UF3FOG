@@ -190,3 +190,27 @@ Fiquem usuari i contrasenya
 
 
 
+I selecionem ubuntu 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/6e9633c0-dd7e-4db2-a416-17fb3602fde5)
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/cb44fefd-5904-43dd-a312-b43e59aef639)
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/62531480-2057-4eae-94fc-c194039c80d6)
+
+
+
+I aqui es veu com he ficat la image del fog a dos maquines ubuntu 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/bb465de5-1361-4bd3-be6a-7dad0dcc4830)
+
+
+
