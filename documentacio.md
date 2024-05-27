@@ -390,3 +390,40 @@ I fem el seguent
 
 
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/9b8d676d-3dbc-4db8-b102-452fdcfbcc12)
+
+
+
+Ara al servidor descargem el paquet que volem i el fiquem a 
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/db8d18d5-2ae7-4368-a2f8-358be6fda743)
+
+
+Creem el script
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/a502ac24-0f75-4976-b527-e87c4af3eebc)
+
+
+
+Creem el snapin
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/3f5f6cbc-36af-4f21-b899-5b70f3f6acf3)
+
+
+
+Afegim el snapin
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/12a7e474-489a-4886-bb08-b034e68d211f)
+
+
+
+Confirmem el tasking
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/911ec571-c260-492a-885b-798cc5bd4d79)
