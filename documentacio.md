@@ -165,3 +165,28 @@ Faig el capture
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/fd1fd065-b1c9-4640-ac01-3f8965395925)
 
 
+
+I cliquem a f12 i cliquem a lan
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/15a4a62c-3ee5-4a4f-a1da-7058122b4479)
+
+
+
+I hem surt aixo
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/4f8df625-c592-4ba6-9c5e-72874147b7e8)
+
+
+
+Fiquem usuari i contrasenya 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/00e3996e-2d4a-4576-b20b-68f2f21e0f04)
+
+
+
