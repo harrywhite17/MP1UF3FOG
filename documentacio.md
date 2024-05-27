@@ -356,3 +356,37 @@ I al client surt aixo
 
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/64910d11-565b-4037-9cdd-cca13d8b0d89)
 
+
+
+Ara installem un paquet a ubuntu
+Primer installem el client fog
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/45a930dd-acfc-4ba5-a8d6-bc099ab2fff2)
+
+
+
+I installem el mono 
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/884edf2f-66ae-48a6-b34f-eaae3d006cea)
+
+
+
+Baixem el SmartInstaller.exe
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/e4c32210-eaac-4eed-9ddb-c30b7a345dd9)
+
+
+
+I fem el seguent
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/30845b86-537e-4e2c-aecf-0ccd35fe724f)
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/9b8d676d-3dbc-4db8-b102-452fdcfbcc12)
