@@ -145,6 +145,45 @@ I all fog surt aixo a images
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/826d0148-38ce-4740-8cb3-300c5d5fd39f)
 
 
+
+Seguent fico el fog a una maquina buida
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/6f4f57d7-f71d-403d-be54-1ff7cf9a14fe)
+
+
+
+Fem el login
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/15315e4f-7f7e-425e-9b09-4ea21e73ab8a)
+
+
+
+I selecionem la de windows 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/be123e6f-4f61-4d0a-aa21-a1e5fac49744)
+
+
+
+I se baixa la image
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/4574d5d5-eb87-4fc6-b09d-6adab3e579b9)
+
+
+I queda aixi despres de clonar la image
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/6da9c0fe-3361-4fc7-b3d9-5ec267e9e992)
+
+
+
 Creem la image de ubuntu
 
 
@@ -213,4 +252,107 @@ I aqui es veu com he ficat la image del fog a dos maquines ubuntu
 ![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/bb465de5-1361-4bd3-be6a-7dad0dcc4830)
 
 
+Installem paquet a windows
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/7e6c6922-bfc8-4d17-95bc-61e22e308c37)
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/6e7ca229-50ef-4d60-b8af-96b1f85dc8f9)
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/fe276639-b354-4b3d-bb1d-8634c0ee8a35)
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/c59e7e9a-0e27-493d-a508-c591b4f32c0c)
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/647b5de3-2dea-4c6a-85f7-5609d9b1dca0)
+
+
+I el instalem 
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/81e47fe9-3f9c-4d29-8be1-655989777ced)
+
+
+
+Mirem si esta el fog en servicios 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/66c14911-1451-4ac1-8a02-421ad940ba08)
+
+
+
+Ara anem al servidor fog i creem un nou snapping
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/256dfe53-7494-4be8-a0e3-1519e1c1b0bc)
+
+
+
+Creem el snapping i fiquem add
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/cea458d5-7057-4990-b5c5-e80e6c88b958)
+
+
+
+Ara anem a hosts despres a snapins i selecionem el que volem afegir
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/4b20d616-6ba8-479d-8f97-4e70195c8aaf)
+
+
+
+Seguent triem la opcio advanced dins de tasques i triem single snapin 
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/e2fc228b-59fd-4bff-9527-f8c600c0e58e)
+
+
+
+I triem firefox
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/18cb51ca-e50e-4e8d-a31f-1166d44a9eb7)
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/927385e2-94c3-45c4-884a-a2e958ed3e9b)
+
+
+
+Anem a tasques i veiem les tasques actives
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/7567ecff-4842-4229-9ff2-44a8f83989f8)
+
+
+
+Despres de un rato me a completat la tasca
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/d412342c-6c2c-46eb-8711-2ad0e5474766)
+
+
+
+I al client surt aixo
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/377a6d20-9cd7-4c2f-a469-adf0aa749217)
+
+
+
+
+![image](https://github.com/harrywhite17/MP1UF3FOG/assets/145098581/64910d11-565b-4037-9cdd-cca13d8b0d89)
 
